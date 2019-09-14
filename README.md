@@ -5,7 +5,7 @@
 This python notebook is for explanation of the core concepts used and the models developed for Explore ML Academy, Hyderabad 2019.
 
 ###  Google AI 
-  <img src="https://ai.google/static/images/share.png" width="450" height="450" >
+  <img src="https://ai.google/static/images/share.png" width="700" height="450" >
   
 
 ## [Colab link](https://colab.research.google.com/drive/1ZvxiOte-EKjNrAFC65kZ8h6umg6ucXhB) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZvxiOte-EKjNrAFC65kZ8h6umg6ucXhB)
